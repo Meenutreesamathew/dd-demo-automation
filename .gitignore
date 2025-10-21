@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+*.pyc
+reports/
+allure-results/
+.env
+.idea/
+.vscode/
+*.log

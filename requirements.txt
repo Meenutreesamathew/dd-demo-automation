@@ -1,0 +1,8 @@
+pytest>=7.0
+playwright>=1.36
+pytest-playwright
+pytest-html
+allure-pytest
+python-dotenv
+loguru
+pytest-xdist
